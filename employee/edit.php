@@ -83,7 +83,7 @@ $result = mysqli_query($conn, "UPDATE `employee` SET `firstName`='$firstname',`l
 <body>
 	<header>
 		<nav>
-			<h1>XYZ Corp.</h1>
+			<h1>Tech Corp.</h1>
 			<ul id="navli">
 				<li><a class="homeblack" href="index.html">HOME</a></li>
 				<li><a class="homeblack" href="addemp.php">Add Employee</a></li>
