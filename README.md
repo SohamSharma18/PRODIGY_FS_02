@@ -10,9 +10,11 @@ About
 
 ![image](https://github.com/user-attachments/assets/7c786f3d-cec9-494d-ad98-44be4b6c4e03)
 
+
 Employee Details
 
-![Screenshot 2024-07-26 124823](https://github.com/user-attachments/assets/c816c654-e502-47a5-9f36-ac82b9087b2b)
+![Screenshot 2024-07-27 215352](https://github.com/user-attachments/assets/b37b70ab-39a0-4565-86e5-506ff7263af7)
+
 
 Data are Stored in Backend where admin can access (phpMyAdmin)
 
