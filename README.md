@@ -7,7 +7,8 @@ Tech Corp Interface for users
 ![Screenshot 2024-07-26 123412](https://github.com/user-attachments/assets/155f53ac-639c-4fd8-b168-f140296d314b)
 
 About
-![Screenshot 2024-07-26 124644](https://github.com/user-attachments/assets/d42a64d1-b80f-4160-9b71-3f14440c3744)
+
+![image](https://github.com/user-attachments/assets/7c786f3d-cec9-494d-ad98-44be4b6c4e03)
 
 Employee Details
 
