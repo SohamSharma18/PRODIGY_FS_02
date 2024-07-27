@@ -22,7 +22,7 @@ where admin (Manager) can access the user data and manage accordingly
 
 ![Screenshot 2024-07-26 125932](https://github.com/user-attachments/assets/3337bd35-eecc-4a06-9108-e29951f6af35)
 
-![Screenshot 2024-07-27 140052](https://github.com/user-attachments/assets/aaf9b593-a18e-4b02-b160-8254a0957c3b)
+![image](https://github.com/user-attachments/assets/d6e6cbfb-dd15-4621-b86a-7564610fe19d)
 
 
 Data are stored in Backend
