@@ -71,13 +71,9 @@ INSERT INTO `employee` (`id`, `firstName`, `lastName`, `email`, `password`, `bir
 (101, 'Soham', 'Sharma', 'soham1@gmail.com', '158920', '2004-02-18', 'Male', '01919', 12121, 'Haryana,India', 'CSE', 'B.Tech', 'images/SOHAM SHARMA.jpeg'),
 (102, 'Hardik', 'Dhiman', 'hardik@gmail.com', '12304', '2003-08-10', 'Male', '0202', 303, 'Haryana,India', 'CSE', 'B.Tech', 'images/HARDIK DHIMAN.jpeg'),
 (103, 'Rakesh', 'Kumar', 'rakesh2@gmail.corp', '12345', '2004-05-14', 'Male', '5252', 6262, 'Maharashtra,India', 'ASH', 'B.Tech', 'images/sw-google.png'),
--- (104, 'Guthrie', 'Govan', 'guthrie@xyz.corp', '1234', '1971-12-01', 'Male', '9595', 5959, 'Chemsford, USA', 'Creative', 'MSc', 'images/test.jpg'),
--- (105, 'Elon', 'Musk', 'elon@spacex.com', '1234', '1971-06-28', 'Male', '8585', 5858, 'LA, USA', 'SpaceTech', 'BSc', 'images/330px-Elon_Musk_Royal_Society.jpg'),
 (106, 'Rahul', 'Bhardwaj', 'rahul12@gmail.com', '123004', '2005-02-02', 'Male', '7575', 5757, 'Jammu&Kashmir,India', 'IT', 'B.Tech', 'images/hacker.png'),
 (107, 'james ', 'Wilson', 'james@gmail.com', '02356', '2002-03-03', 'Male', '4545', 5454, 'Madhya Pradesh', 'AI&ML', 'B.Tech', 'images/no.jpg'),
 (108, 'Andrew', ' Ng', 'andrew@gmail.com', '114234', '2005-06-20', 'Male', '758758', 857857, 'Karnataka,India', 'AI&DS', 'B.Tech', 'images/download.jpeg'),
--- (109, 'Ian ', 'Goodfellow', 'ian@xyz.corp', '1234', '1985-01-01', 'Male', '852852', 258258, 'USA', 'AI', 'PhD', 'images/1-5.jpg'),
--- (110, 'Christopher ', 'Manning', 'christopher@xyz.corp', '1234', '1965-09-18', 'Male', '147147', 741741, 'USA', 'NLP', 'PhD', 'images/download (1).jpeg'),
 (111, 'Jon', 'Snow', 'john@gmail.com', '12394', '2003-02-01', 'Male', '0187282', 112233, 'Goa,India', 'Management', 'B.Com', 'images/jon-snow.jpg');
   
 
